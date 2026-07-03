@@ -8,6 +8,6 @@ print(find.find("chai"))
 l=["I","am","a","software","engineer"]
 print(" ".join(l))
 
-raw=r"c:\user\pwd\"
+raw=r"c:\user\pwd"
 print(raw)
 
