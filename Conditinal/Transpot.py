@@ -5,4 +5,3 @@ elif distance>5 and distance<=20:
     print("The delivery charge is $10.") 
 elif distance>20 and distance<=50:
     print("The delivery charge is $15.")
-   
